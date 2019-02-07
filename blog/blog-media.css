@@ -1,0 +1,115 @@
+@media screen and (max-width: 770px){
+  .cont-blog{
+    width: 95%;
+  }
+
+  .recent-posts {
+    width: 100%;
+  }
+
+  .recent-posts p{
+    letter-spacing: 2px;
+  }
+
+  .posts{
+    display: flex;
+  }
+
+  .posts img{
+    width: 80px;
+    height: 60px;
+  }
+
+  .posts-text p{
+    font-size: 12px;
+  }
+
+  .name-tags{
+    width: 80px;
+    font-size: 12px;
+  }
+
+  .inst-foto img{
+    width: 90px;
+    height: 70px;
+    padding: 5px;
+  }
+  
+}
+
+@media screen and (max-width: 420px){
+
+.text-foto1{ 
+    margin: 0px;
+    margin-left: 10px;
+    width: 100%; 
+    height: 40px; 
+} 
+ 
+.text-foto1 span{ 
+    font-size: 30px; 
+} 
+
+.text-foto2 span{ 
+    margin: 0; 
+    font-size: 12px; 
+    font-weight:600; 
+    letter-spacing: 2px; 
+} 
+
+.cont-blog{
+  display: block;
+}
+ .blog-post{
+   width: 100%;
+ }
+
+.blog-cosial{
+  width: 100%;
+  margin-top: 40px;
+}
+
+.posts img{
+  width: 100px;
+  height: 80px;
+}
+
+.posts-text p{
+  font-size: 12px;
+}
+
+.name-tags{
+  width: 110px;
+  font-size: 14px;
+}
+
+.inst-foto img{
+  width: 120px;
+  height: 90px;
+  padding: 5px;
+}
+
+
+.cont-logo{ 
+  display: none; 
+} 
+
+.cont-social  img{ 
+  padding: 20px; 
+} 
+.footer-text{ 
+  display: none; 
+} 
+}
+
+@media screen and (max-width: 320px){
+
+  .text-foto1 span{ 
+    font-size: 26px; 
+} 
+
+.cont-social  img{ 
+  padding: 10px; 
+} 
+
+}

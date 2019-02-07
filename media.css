@@ -1,0 +1,118 @@
+@media screen and (max-width: 770px) {   
+ 
+    .content-menu li :after {   
+        content: "";    
+    }  
+    .cont-content{ 
+        width: 100%; 
+        margin-top: 40px; 
+        display: flex;   
+        flex-direction: row; 
+    }  
+    .content-menu{ 
+        width: 100%; 
+        height: 80px; 
+        margin: 0;
+        border-top: 1px solid #e1e1e1 ; 
+        border-bottom: 1px solid #e1e1e1 ; 
+        display: flex; 
+        justify-content: space-between; 
+    } 
+
+    
+    .cont-content img{ 
+        width: 80%; 
+    } 
+
+    .content { 
+        display: flex; 
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: flex-start; 
+        width: 90%; 
+    } 
+ 
+}
+
+
+
+
+
+@media screen and (max-width: 420px) {  
+    
+    .main-menu { 
+        padding-top: 10px; 
+        padding-bottom: 10px; 
+    } 
+ 
+    .text-foto1{ 
+        width: 100%; 
+        height: 40px; 
+    } 
+     
+    .text-foto1 span{ 
+        font-size: 23px; 
+    } 
+ 
+    .text-foto2 span{ 
+        margin: 0; 
+        font-size: 12px; 
+        font-weight:600; 
+        letter-spacing: 2px; 
+    } 
+ 
+    .content-menu{ 
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 10px; 
+        padding-bottom: 10px; 
+    } 
+ 
+    
+    .content-menu ul{ 
+        display: block;
+        width:80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 0px;
+    } 
+    .content-menu li :after {  
+        content: "";   
+    } 
+ 
+    .cont-content{ 
+        width: 100%; 
+        display: flex; 
+        flex-direction:column; 
+        margin: 0px;
+    } 
+ 
+    .cont-logo{ 
+        display: none; 
+    } 
+ 
+    .cont-social  img{ 
+        padding: 10px; 
+    } 
+    .footer-text{ 
+        display: none; 
+    } 
+ 
+    .content { 
+        width: 100%; 
+    } 
+     
+    .content img { 
+        width: 100%; 
+    } 
+}
+
+@media screen and (max-width: 420px){
+
+    .text-foto1 span{ 
+        font-size: 20px;
+      } 
+}
+    

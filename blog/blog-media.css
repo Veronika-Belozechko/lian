@@ -41,10 +41,14 @@
 
 .text-foto1{ 
     margin: 0px;
-    margin-left: 10px;
     width: 100%; 
     height: 40px; 
 } 
+
+.main-foto{
+  display: flex;
+  justify-content: center;
+}
  
 .text-foto1 span{ 
     font-size: 30px; 

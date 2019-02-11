@@ -109,10 +109,9 @@
     } 
 }
 
-@media screen and (max-width: 420px){
-
+@media screen and (max-width: 320px){
     .text-foto1 span{ 
-        font-size: 20px;
-      } 
+        font-size: 20px; 
+    } 
 }
     

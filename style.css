@@ -31,7 +31,6 @@ li {
 }
 
 .main-foto {
-    width: 100%;
     height: 630px;
     background: url("img/home/shutterstock_353200073.jpg") 100% 30% no-repeat;
     background-size: cover;

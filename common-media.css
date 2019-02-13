@@ -1,0 +1,31 @@
+@media screen and (max-width: 420px) {  
+    
+    .main-menu { 
+        padding-top: 10px; 
+        padding-bottom: 10px; 
+    }
+    
+    .main-foto{
+        display: flex;
+        justify-content: center;
+      }
+
+    .cont-logo{ 
+        display: none; 
+    } 
+ 
+    .cont-social  img{ 
+        padding: 10px; 
+    } 
+    .footer-text{ 
+        display: none; 
+    } 
+ 
+    .content { 
+        width: 100%; 
+    } 
+     
+    .content img { 
+        width: 100%; 
+    } 
+}

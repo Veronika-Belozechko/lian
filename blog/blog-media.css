@@ -39,10 +39,6 @@
 
 @media screen and (max-width: 420px){
 
-  .main-menu { 
-    padding-top: 10px; 
-    padding-bottom: 10px; 
-} 
 
 .text-foto1{ 
     margin: 0px;
@@ -50,10 +46,6 @@
     height: 40px; 
 } 
 
-.main-foto{
-  display: flex;
-  justify-content: center;
-}
  
 .text-foto1 span{ 
     font-size: 30px; 
@@ -102,16 +94,6 @@
   padding: 5px;
 }
 
-.cont-logo{ 
-  display: none; 
-} 
-
-.cont-social  img{ 
-  padding: 10px; 
-} 
-.footer-text{ 
-  display: none; 
-} 
 }
 
 @media screen and (max-width: 320px){

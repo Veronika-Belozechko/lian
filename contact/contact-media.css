@@ -14,15 +14,7 @@
 }
 
 @media screen and (max-width: 420px) {
-    .main-menu { 
-        padding-top: 10px; 
-        padding-bottom: 10px; 
-    } 
     
-    .main-foto {
-        display: flex;
-        justify-content: center;
-    }
     .text-foto1 {
         margin: 0px;
         margin-left: 10px;
@@ -68,14 +60,7 @@
     .vision-const {
         width: 100%;
     }
-    .cont-logo {
-        display: none;
-    }
-    .cont-social img {
-        padding: 10px;
-    }
-    .footer-text {
-        display: none;
+  
     }
     @media screen and (max-width: 320px) {
         .text-foto1 span {

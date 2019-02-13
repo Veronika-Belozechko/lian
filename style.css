@@ -21,7 +21,7 @@ li {
 
 .main-menu li {
     display: inline; 
-    padding: 20px;
+    margin: 20px;
 }
 
 .main-menu a{

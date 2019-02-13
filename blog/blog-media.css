@@ -83,6 +83,10 @@
   height: 80px;
 }
 
+.search button{
+  margin: 10px;
+}
+
 .posts-text p{
   font-size: 12px;
 }
@@ -98,13 +102,12 @@
   padding: 5px;
 }
 
-
 .cont-logo{ 
   display: none; 
 } 
 
 .cont-social  img{ 
-  padding: 20px; 
+  padding: 10px; 
 } 
 .footer-text{ 
   display: none; 

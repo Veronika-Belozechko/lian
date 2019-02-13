@@ -14,9 +14,11 @@
 }
 
 @media screen and (max-width: 420px) {
-    ul {
-        padding-inline-start: 0px;
-    }
+    .main-menu { 
+        padding-top: 10px; 
+        padding-bottom: 10px; 
+    } 
+    
     .main-foto {
         display: flex;
         justify-content: center;

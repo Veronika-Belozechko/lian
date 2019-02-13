@@ -22,12 +22,17 @@ li {
 .main-menu li {
     display: inline; 
     margin: 20px;
+
 }
 
 .main-menu a{
     color: #929292;
     font-weight:600;
     font-size: 14px;
+}
+
+.main-menu a:hover{
+    color: #000;
 }
 
 .main-foto {
